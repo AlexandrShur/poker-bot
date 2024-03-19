@@ -1,0 +1,82 @@
+[draw]
+
+window_name = Холдем
+window_width = 1200
+window_height = 1000
+header_offest = 87
+left_border_offset = 9
+bottom_border_offset = -10
+right_border_offset = -10
+template_threshold = 0.91
+
+save_generated_templates_path = N:\\train\\open_cv_card\\temp\\templates\\2\\
+read_genarated_templates_path = temp/pokershots/2/
+table_data_display_template = temp/pokershots/2/1679401952.108456.jpg
+save_shots_path = N:\\train\\open_cv_card\\temp\\pokershots\\2\\
+save_bugs_path = N:\\train\\open_cv_card\\test\\dom\\res\\bugs\\
+
+player_1 = 160 370 120 290
+player_2 = 50 260 510 680
+player_3 = 160 370 890 1060
+player_4 = 480 690 910 1080
+player_5 = 600 810 510 680
+player_6 = 480 690 100 270
+main_cards = 375 480 390 790
+buttons = 830 902 365 820
+button_fold = 830 902 365 510
+button_check = 830 902 515 665
+button_raise = 830 902 670 820
+button_bet = 830 902 670 820
+button_call = 830 902 515 665
+button_allin = 830 902 515 665
+button_newgame = 830 902 365 510
+input = 730 760 960 1100
+bank = 255 275 440 570
+
+main_cards_1_r = 378 415 397 419
+main_cards_1_s = 415 440 397 419
+main_cards_2_r = 378 415 477 499
+main_cards_2_s = 415 440 477 499
+main_cards_3_r = 378 415 557 579
+main_cards_3_s = 415 440 557 579
+main_cards_4_r = 378 415 637 659
+main_cards_4_s = 415 440 637 659
+main_cards_5_r = 378 415 717 739
+main_cards_5_s = 415 440 717 739
+
+
+main_cards_1_pos = 0 78
+main_cards_2_pos = 78 156
+main_cards_3_pos = 156 234
+main_cards_4_pos = 234 312
+main_cards_5_pos = 312 390
+
+[cards]
+template_hearts = h res/dom/cards/v2/41679406379.076814.jpg
+template_clubs = c res/dom/cards/v2/1301679406379.360202.jpg
+template_diamonds = d res/dom/cards/v2/81679406379.081814.jpg
+template_spades = s res/dom/cards/v2/21679406379.074813.jpg
+
+template_two = 2 res/dom/cards/v2/5471679406380.297584.jpg
+template_three = 3 res/dom/cards/v2/5491679406380.298584.jpg
+template_four = 4 res/dom/cards/v2/2291679406379.578453.jpg
+template_five = 5 res/dom/cards/v2/2411679406379.606463.jpg
+template_six = 6 res/dom/cards/v2/191679406379.111814.jpg
+template_seven = 7 res/dom/cards/v2/3231679406379.793582.jpg
+template_eight = 8 res/dom/cards/v2/3911679406379.940584.jpg
+template_nine = 9 res/dom/cards/v2/331679406379.144815.jpg
+template_ten = T res/dom/cards/v2/231679406379.115813.jpg
+template_jack = J res/dom/cards/v2/1671679406379.436451.jpg
+template_queen = Q res/dom/cards/v2/2491679406379.615452.jpg
+template_king = K res/dom/cards/v2/531679406379.185813.jpg
+template_ace = A res/dom/cards/v2/1451679406379.395202.jpg
+
+[buttons]
+template_fold = fold res/dom/buttons/v2/1679401946.559819.jpg
+template_check = check res/dom/buttons/v2/1679401946.559819_1.jpg
+template_bet = bet res/dom/buttons/v2/1679401946.559819_2.jpg
+template_allin = allin res/dom/buttons/v2/1679402962.152902.jpg
+template_call = call res/dom/buttons/v2/1679402208.137112.jpg
+template_raise = raise res/dom/buttons/v2/1679402208.137112_1.jpg
+template_newgame = newgame res/dom/buttons/v2/newgame.jpg
+

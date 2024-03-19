@@ -1,0 +1,92 @@
+[draw]
+
+window_name = 'Холдем'
+window_width = 1024
+window_height = 768
+header_offest = 87
+left_border_offset = 9
+bottom_border_offset = 162
+right_border_offset = 102
+
+player_1 = 130 290 42 280
+player_2 = 30 180 450 680
+player_3 = 130 290 840 1080
+player_4 = 380 530 860 1090
+player_5 = 520 680 450 680
+player_6 = 370 530 35 260
+main_cards = 295 405 365 755
+buttons = 775 840 560 1115
+button_fold = 775 840 560 745
+button_check = 775 840 745 935
+button_raise = 775 840 935 1115
+button_bet = 775 840 935 1115
+button_allin = 775 840 935 1115
+input = 730 760 960 1100
+bank = 230 270 450 680
+
+main_cards_1_r = 300 338 365 390
+main_cards_1_s = 338 360 365 390
+main_cards_2_r = 300 338 444 470
+main_cards_2_s = 338 360 444 470
+main_cards_3_r = 300 338 522 545
+main_cards_3_s = 338 360 522 545
+main_cards_4_r = 300 338 601 624
+main_cards_4_s = 338 360 601 624
+main_cards_5_r = 300 338 679 702
+main_cards_5_s = 338 360 679 702
+
+
+
+main_cards_1_pos = 0 50
+main_cards_2_pos = 70 130
+main_cards_3_pos = 150 190
+main_cards_4_pos = 230 270
+main_cards_5_pos = 310 350
+
+[cards]
+template_hearts = h test/441668876079.892667.jpg
+template_clubs = c test/961668876079.99867.jpg
+template_diamonds = d test/461668876079.894669.jpg
+template_spades = s test/421668876079.890679.jpg
+
+template_two = 2 test/2811668876080.394679.jpg
+template_three = 3 test/3131668876080.456828.jpg
+template_four = 4 test/9711668876082.01018.jpg
+template_five = 5 test/511668876079.910679.jpg
+template_six = 6 test/4451668876080.727944.jpg
+template_seven = 7 test/2491668876080.315667.jpg
+template_eight = 8 test/11451668876082.411183.jpg
+template_nine = 9 test/2311668876080.286679.jpg
+template_ten = T test/6571668876081.256554.jpg
+template_jack = J test/5651668876081.013552.jpg
+template_queen = Q test/1031668876080.017668.jpg
+template_king = K test/4431668876080.726947.jpg
+template_ace = A test/1451668876080.101667.jpg
+
+
+1template_hearts = hearts test/441668876079.892667.jpg
+1template_clubs = clubs test/961668876079.99867.jpg
+1template_diamonds = diamonds test/461668876079.894669.jpg
+1template_spades = spades test/421668876079.890679.jpg
+
+1template_two = two test/2811668876080.394679.jpg
+1template_three = three test/3131668876080.456828.jpg
+1template_four = four test/9711668876082.01018.jpg
+1template_five = five test/511668876079.910679.jpg
+1template_six = six test/4451668876080.727944.jpg
+1template_seven = seven test/2491668876080.315667.jpg
+1template_eight = eight test/11451668876082.411183.jpg
+1template_nine = nine test/2311668876080.286679.jpg
+1template_ten = ten test/6571668876081.256554.jpg
+1template_jack = jack test/5651668876081.013552.jpg
+1template_queen = queen test/1031668876080.017668.jpg
+1template_king = king test/4431668876080.726947.jpg
+1template_ace = ace test/1451668876080.101667.jpg
+
+[buttons]
+template_fold = fold test/123123_7.jpg
+template_check = check test/123123_8.jpg
+template_bet = bet test/123123_9.jpg
+template_allin = allin test/123123_9.jpg
+template_call = call test/123123_10.jpg
+template_raise = raise test/123123_11.jpg

@@ -1,0 +1,78 @@
+[draw]
+
+window_name = 'Холдем'
+window_width = 1024
+window_height = 768
+header_offest = 87
+left_border_offset = 9
+bottom_border_offset = -10
+right_border_offset = -10
+template_threshold = 0.91
+
+save_generated_templates_path = N:\\train\\open_cv_card\\temp\\templates\\2\\
+read_genarated_templates_path = temp\pokershots\2
+table_data_display_template = temp/pokershots/2/1679173969.037582.jpg
+
+player_1 = 110 280 145 285
+player_2 = 30 200 435 575
+player_3 = 110 280 740 880
+player_4 = 360 530 740 880
+player_5 = 440 610 435 575
+player_6 = 360 530 145 285
+main_cards = 275 360 355 655
+buttons = 615 670 335 675
+button_fold = 615 670 335 445
+button_check = 615 670 450 560
+button_raise = 615 670 565 675
+button_bet = 615 670 565 675
+button_call = 615 670 450 560
+button_allin = 615 670 450 560
+input = 730 760 960 1100
+bank = 255 275 440 570
+
+main_cards_1_r = 280 306 360 380
+main_cards_1_s = 308 330 360 375
+main_cards_2_r = 280 308 420 440
+main_cards_2_s = 308 330 420 435
+main_cards_3_r = 280 308 480 500
+main_cards_3_s = 308 330 480 495
+main_cards_4_r = 280 308 540 560
+main_cards_4_s = 308 330 540 555
+main_cards_5_r = 280 308 600 620
+main_cards_5_s = 308 330 600 615
+
+
+main_cards_1_pos = 0 78
+main_cards_2_pos = 78 156
+main_cards_3_pos = 156 234
+main_cards_4_pos = 234 312
+main_cards_5_pos = 312 390
+
+[cards]
+template_hearts = h res/dom/cards/1961679197110.242188.jpg
+template_clubs = c res/dom/cards/1041679197110.079189.jpg
+template_diamonds = d res/dom/cards/41679197109.900548.jpg
+template_spades = s res/dom/cards/21679197109.896556.jpg
+
+template_two = 2 res/dom/cards/1951679197110.241187.jpg
+template_three = 3 res/dom/cards/11679197109.894544.jpg
+template_four = 4 res/dom/cards/2591679197110.351189.jpg
+template_five = 5 res/dom/cards/51679197109.901545.jpg
+template_six = 6 res/dom/cards/251679197109.935469.jpg
+template_seven = 7 res/dom/cards/831679197110.04547.jpg
+template_eight = 8 res/dom/cards/1011679197110.076192.jpg
+template_nine = 9 res/dom/cards/1131679197110.0992.jpg
+template_ten = T res/dom/cards/1031679197110.078186.jpg
+template_jack = J res/dom/cards/2331679197110.303189.jpg
+template_queen = Q res/dom/cards/3891679197110.577415.jpg
+template_king = K res/dom/cards/31679197109.898548.jpg
+template_ace = A test/1451668876080.101667.jpg
+
+[buttons]
+template_fold = fold res/dom/buttons/761679197110.02647.jpg
+template_check = check res/dom/buttons/611679197109.998468.jpg
+template_bet = bet res/dom/buttons/781679197110.028482.jpg
+template_allin = allin res/dom/buttons/3171679197110.446187.jpg
+template_call = call res/dom/buttons/931679197110.056467.jpg
+template_raise = raise res/dom/buttons/621679197109.999481.jpg
+
